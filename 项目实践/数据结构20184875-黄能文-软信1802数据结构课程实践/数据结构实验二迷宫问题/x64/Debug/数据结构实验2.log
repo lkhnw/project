@@ -1,0 +1,20 @@
+﻿  mainc.c
+C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\mainc.c(16,24): warning C4047: “函数”:“int **”与“int [2]”的间接级别不同
+C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\mainc.c(16,24): warning C4024: “qiujie”: 形参和实参 4 的类型不同
+C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\mainc.c(16,30): warning C4047: “函数”:“int **”与“int [2]”的间接级别不同
+C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\mainc.c(16,30): warning C4024: “qiujie”: 形参和实参 5 的类型不同
+  stack.c
+C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\stack.c(4,29): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\stack.c(4,50): warning C4312: “类型强制转换”: 从“int”转换到更大的“twoint_node *”
+C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\stack.c(7,19): warning C4047: “=”:“int”与“void *”的间接级别不同
+C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\stack.c(8,19): warning C4047: “=”:“int”与“void *”的间接级别不同
+C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\stack.c(14,50): warning C4312: “类型强制转换”: 从“int”转换到更大的“twoint_node *”
+C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\stack.c(30,51): warning C4312: “类型强制转换”: 从“int”转换到更大的“twoint_stack *”
+C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\stack.c(38,51): warning C4312: “类型强制转换”: 从“int”转换到更大的“twoint_stack *”
+C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\stack.c(55,47): warning C4312: “类型强制转换”: 从“int”转换到更大的“twoint_node *”
+C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\stack.c(79,25): warning C4047: “=”:“int”与“int *”的间接级别不同
+C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\stack.c(108,36): warning C4028: 形参 4 与声明不同
+C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\stack.c(108,47): warning C4028: 形参 5 与声明不同
+  正在生成代码...
+C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\stack.c(85): warning C4172: 返回局部变量或临时变量的地址: z
+  数据结构实验2.vcxproj -> C:\Users\黄能文\Desktop\数据结构20184875-黄能文-软信1802\数据结构实验二迷宫问题\x64\Debug\数据结构实验二迷宫问题.exe
